@@ -7,11 +7,26 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+As a freelance Designer I want to streamline the interactions between the designer and the client. 
+There are alot of phases that goes into designing something like a Logo for a company; It requires constant feedback, communication and revisions. 
+I am designing a platform that will aim to keep my clients aware of every phase of the design process and overall keep all important info in one location.
 ### Features
-Include Features here
+1. User Login: Each client will have a profile page that contains their design files, all communicatons and revisions. 
+2. Interactive Design Questionnaire: All clients are able to fill out a Digital Design Questionnaire that presents questions to users based on the data already collected.
+3. Digital Design Proofing: Clients will be able to suggest revisions of a design on a digital platform where they can mark revisions directly on their computer screen.
+4. Payment API: This will be used to collect the deposits and full-payments from clients for design work.
 ### Technologies
-Include Technologies here
+1. JavaScript
+2. HTML5 Canvas
+3. Node.js
+4. React.js
+5. MongoDB
+6. Express.js
 
 ### What I'll Have to Learn
-Include what you will need to learn here
+1. Particles.js for more interativity
+2. Interactive front-end techniques
+3. Advanced Javascript
+4. React.js
+5. HTML5 Canvas
+6. Advanced CSS
